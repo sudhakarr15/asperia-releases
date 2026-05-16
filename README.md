@@ -1,2 +1,3 @@
-# asperia-releases
-apk releses for ASperia
+# ASperia Releases
+
+Official APK releases for ASperia Android App.
